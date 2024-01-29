@@ -1,4 +1,3 @@
-![logo](https://github.com/faizakashaf/faizakashaf/blob/main/WhatsApp%20Video%202024-01-29%20at%2010.32.13%20PM.mp4)
 <h1 align="center">Hey Everyone👋, I'm Faiza Kashaf</h1>
 <h3 align="center">An enthusiastic frontend developer</h3>
 

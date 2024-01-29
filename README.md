@@ -1,3 +1,4 @@
+![logo](https://github.com/faizakashaf/faizakashaf/blob/main/banner.mp4)
 <h1 align="center">Hey Everyone👋, I'm Faiza Kashaf</h1>
 <h3 align="center">An enthusiastic frontend developer</h3>
 

@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour👋, I'm Faiza Kashaf</h1>
+<h1 align="center">Hey Everyone👋, I'm Faiza Kashaf</h1>
 <h3 align="center">An enthusiastic frontend developer</h3>
 
 - 🔭 I’m currently working on **Websites Development**

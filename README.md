@@ -1,20 +1,64 @@
-<h1 align="center">Hey Everyone👋, I'm Faiza Kashaf</h1>
-<h3 align="center">An enthusiastic frontend developer</h3>
+<h1 align="center">Hey Everyone 👋, I'm Faiza Kashaf</h1>
+<h3 align="center">A passionate DevOps Engineer | Cloud & Automation Enthusiast</h3>
 
-- 🔭 I’m currently working on **Websites Development**
+- 🔭 I’m currently working on **Cloud Infrastructure & Automation**
+- 🌱 I’m currently learning **AWS, Kubernetes, CI/CD Pipelines**
+- 💬 Ask me about **Linux, Networking, Docker, Kubernetes, Jenkins, Ansible, Terraform, GitHub**
+- 📫 How to reach me: **faizakashaf4@gmail.com**
 
-- 🌱 I’m currently learning **Javascript ,React Js , Mongo DB**
+---
 
-- 💬 I'm open to discussing.. **Html ,Css ,Javascript**
-
-- 📫 How to reach me **faizakashaf4@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/faiza kashaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faiza kashaf" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/faizakashaf" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faiza kashaf" height="30" width="40" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=faizakashaf&show_icons=true&locale=en&layout=compact" alt="faizakashaf" /></p>
+<h3 align="left">⚙️ DevOps Tools & Technologies:</h3>
+<p align="left">
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/>
+  </a>
+  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+  </a>
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+<h3 align="left">🚀 Projects:</h3>
+<ul>
+  <li><strong>🔹 Automated Infrastructure Deployment:</strong> Using Terraform and Ansible for AWS resource provisioning.</li>
+  <li><strong>🔹 CI/CD Pipeline:</strong> Implemented using Jenkins, Docker, and Kubernetes for seamless deployment.</li>
+  <li><strong>🔹 Kubernetes Cluster Setup:</strong> Deployed microservices with autoscaling in a Kubernetes environment.</li>
+  <li><strong>🔹 Log Monitoring & Alerting:</strong> Configured ELK stack for log aggregation and monitoring.</li>
+  <li><strong>🔹 Containerized Application:</strong> Deployed a full-stack app using Docker Compose.</li>
+</ul>
+
+---
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=faizakashaf&show_icons=true&locale=en&layout=compact" alt="faizakashaf" />
+</p>
+
+---
+
+<h3 align="center">✨ Keep Learning & Automating! ✨</h3>
